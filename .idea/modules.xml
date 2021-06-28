@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Views-and-Layout.iml" filepath="$PROJECT_DIR$/.idea/Views-and-Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WE.iml" filepath="$PROJECT_DIR$/.idea/modules/WE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WE.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WE.app.iml" />
     </modules>
   </component>
 </project>
